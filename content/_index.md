@@ -30,7 +30,7 @@ sections:
     features:
       - title: Cours de macramé
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          Edition de Github (fork) dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
