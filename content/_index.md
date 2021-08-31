@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: C'est super
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam'
     actions:
       - label: Learn More
         url: /features
