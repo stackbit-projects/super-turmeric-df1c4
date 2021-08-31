@@ -7,9 +7,6 @@ sections:
       - label: J'avoue !
         url: /features
         style: primary
-      - label: Sûr
-        url: /contact
-        style: secondary
       - label: Absolument
         url: '#'
         style: secondary
