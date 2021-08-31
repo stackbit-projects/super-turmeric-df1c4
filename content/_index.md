@@ -28,7 +28,7 @@ sections:
   - type: features_section
     title: Nos prestations
     features:
-      - title: Feature 1
+      - title: Cours de jumbé
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
