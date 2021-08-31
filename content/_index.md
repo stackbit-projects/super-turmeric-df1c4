@@ -26,7 +26,7 @@ sections:
       background_image_repeat: repeat
     subtitle: et aussi génial
   - type: features_section
-    title: Features
+    title: Nos prestations
     features:
       - title: Feature 1
         content: >-
