@@ -7,7 +7,7 @@ sections:
       - label: J'avoue !
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Sûr
         url: /contact
         style: secondary
     align: left
