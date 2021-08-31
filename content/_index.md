@@ -10,7 +10,7 @@ sections:
       - label: Sûr
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: Absolument
         url: '#'
         style: link
         new_window: false
