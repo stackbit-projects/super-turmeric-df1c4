@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: C'est super
     actions:
-      - label: Learn More
+      - label: J'avoue
         url: /features
         style: primary
       - label: Contact Us
